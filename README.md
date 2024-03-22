@@ -18,12 +18,8 @@ I'm a staunch advocate of the Do-It-Yourself approach. Whether it's setting up a
 
 ### Family
 
-Aside from my passion for technology, I'm a proud father and husband. My family is my greatest inspiration.
+Aside from my passion for technology, I'm a proud father and husband. My family is my greatest inspiration. Tamer of two dogs and two cats.
 
-### Contact
+### Contact me
 
 Mastodon: <a rel="me" href="https://inn4tel.social/@michael">@michael@inn4tel.social</a>
-
----
-
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/65fb387a6deb533d6efe4f47?variant=dark)](https://roadmap.sh)
