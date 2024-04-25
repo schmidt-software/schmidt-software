@@ -22,4 +22,4 @@ Aside from my passion for technology, I'm a proud father and husband. My family 
 
 ### Contact me
 
-Mastodon: <a rel="me" href="https://inn4tel.social/@michael">@michael@inn4tel.social</a>
+<a rel="me" href="https://inn4tel.social/@michael">Mastodon</a>: <a rel="me" href="https://inn4tel.social/@michael">@michael@inn4tel.social</a>
