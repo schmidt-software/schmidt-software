@@ -1,4 +1,4 @@
-Software Developer | Linux Enthusiast | Open Source Advocate | Always Curious | Do-It-Yourselfer | Proud Father & Husband
+Software Developer | Linux Enthusiast | Open Source Advocate | Always Curious | Do-It-Yourselfer | Proud Father, Husband and dog and (a little bit) cat lover.
 
 ### About Me
 
