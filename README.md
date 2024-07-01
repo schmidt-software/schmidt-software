@@ -2,7 +2,7 @@ Software Developer | Linux Enthusiast | Open Source Advocate | Always Curious | 
 
 ### About Me
 
-Hello! I'm Michael, a passionate software developer with over 30 years of experience in the industry. Since my beginnings, I've developed a special preference for Linux systems and open-source software, considering them as the driving force behind my creativity and productivity.
+Hello! I'm Michael, a passionate software developer with over 30 years of experience in the industry. Since my beginnings, I've developed a special preference for Linux systems and open-source software, considering them as the driving force behind creativity and productivity.
 
 ### What I Do
 
@@ -14,7 +14,7 @@ Linux, for me, is not just an operating system but a way of life. The flexibilit
 
 ### DIY Mentality
 
-I'm a staunch advocate of the Do-It-Yourself approach. Whether it's setting up a home network, tinkering with hardware projects, or experimenting with new programming languages, I love taking things into my own hands and learning how they work.
+I'm a advocate of the Do-It-Yourself approach. Whether it's setting up a home network, tinkering with hardware projects, or experimenting with new programming languages, I love taking things into my own hands and learning how they work.
 
 ### Family
 
