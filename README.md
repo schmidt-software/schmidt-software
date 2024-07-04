@@ -6,7 +6,7 @@ Hello! I'm Michael, a passionate software developer with over 30 years of experi
 
 ### What I Do
 
-I love coding and developing innovative solutions, be it in backend development, system administration, or software architecture. My curiosity constantly drives me to explore new technologies and expand my knowledge. Stuck in a permanent position, but always looking for a challenge
+I love coding and developing innovative solutions, be it in backend development, system administration, or software architecture. My curiosity constantly drives me to explore new technologies and expand my knowledge. Stuck in a permanent position, but always looking for a challenge.
 
 ### DIY Mentality
 
