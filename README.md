@@ -6,7 +6,7 @@ Hi, I'm Michael — a passionate software developer and system architect with ov
 # 💻 What I Do
 From backend development to system administration and architectural design, I enjoy crafting efficient, scalable solutions. I'm currently in a permanent role, but always open to new challenges that push boundaries and spark creativity.
 
- #🔧 DIY Mentality
+ # 🔧 DIY Mentality
 I live by the mantra: "If you can break it, you can fix it." Whether it's hardware, software, or something in between — I believe in rolling up my sleeves and figuring things out.
 
 # 🐾 Life Beyond Code
