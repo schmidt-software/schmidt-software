@@ -13,4 +13,4 @@ I live by the mantra: "If you can break it, you can fix it." Whether it's hardwa
 I'm a proud father, husband, and the tamer of two dogs and two cats. My family keeps me grounded and inspired — they’re my greatest source of joy and motivation.
 
 # 📬 Connect
-Mastodon: @scmi1@kanoa.de
+Mastodon: [@schmidtsoftware@kanoa.de](https://kanoa.de/@schmidtsoftware)
