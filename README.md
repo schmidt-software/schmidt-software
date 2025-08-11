@@ -1,21 +1,16 @@
-Software Developer | Linux Enthusiast | Open Source Advocate | Always Curious | Do-It-Yourselfer
+*System Architect* | *Software Developer* | *Linux Enthusiast* | *Open Source Advocate* | *Lifelong Learner* | *DIY Tinkerer*
 
-### About Me
+# 👋 About Me
+Hi, I'm Michael — a passionate software developer and system architect with over 30 years of experience. I thrive on solving complex problems, building robust systems, and exploring the ever-evolving world of technology. Curiosity is my fuel, and innovation is my playground.
 
-Hello! I'm Michael, a passionate software developer with over 30 years of experience in the industry.
+# 💻 What I Do
+From backend development to system administration and architectural design, I enjoy crafting efficient, scalable solutions. I'm currently in a permanent role, but always open to new challenges that push boundaries and spark creativity.
 
-### What I Do
+ #🔧 DIY Mentality
+I live by the mantra: "If you can break it, you can fix it." Whether it's hardware, software, or something in between — I believe in rolling up my sleeves and figuring things out.
 
-I love coding and developing innovative solutions, be it in backend development, system administration, or software architecture. My curiosity constantly drives me to explore new technologies and expand my knowledge. Stuck in a permanent position, but always looking for a challenge.
+# 🐾 Life Beyond Code
+I'm a proud father, husband, and the tamer of two dogs and two cats. My family keeps me grounded and inspired — they’re my greatest source of joy and motivation.
 
-### DIY Mentality
-
-I'm a advocate of the Do-It-Yourself approach. If you can break it, you can fix it.
-
-### Family
-
-Aside from my passion for technology, I'm a father and husband. My family is my greatest inspiration. Tamer of two dogs and two cats.
-
-### Contact me
-
-Mastodon: <a rel="me" href="https://inn4tel.social/@michael">@scmi1@kanoa.de</a>
+# 📬 Connect
+Mastodon: @scmi1@kanoa.de
